@@ -1,3 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = 'hugo-xmin'
+sidebar_about_description = 'What are you looking at in the sidebar?'
+about_me = true
