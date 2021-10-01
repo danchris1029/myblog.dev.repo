@@ -6,14 +6,24 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Aug 2021 19:47:37 -0500</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Aug 2021 21:09:59 -0500</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Burning Out On Language Studies?: Teaching myself Japanese</title>
+      <link>http://example.org/post/learningjapnese/</link>
+      <pubDate>Tue, 31 Aug 2021 21:09:59 -0500</pubDate>
+      
+      <guid>http://example.org/post/learningjapnese/</guid>
+      <description>Intro If there was a secret recipe to learning a language and it basically guarenteed that you would be fluent in the language sometime in the future, would you take it? Probably, but it wouldn&amp;rsquo;t be easy to keep up with it.
+&amp;ldquo;Wait what do you mean Mr. Writer, of course if something like that existed then I would definetly take it and become fluent in the language that I love&amp;rdquo;.</description>
+    </item>
+    
     <item>
       <title>What is a software engineer anyway?</title>
       <link>http://example.org/post/softwareengineer/</link>
       <pubDate>Sat, 28 Aug 2021 19:47:37 -0500</pubDate>
       
       <guid>http://example.org/post/softwareengineer/</guid>
-      <description>The Confusion Before The Experience Some of the material studied to earn a computer science degree focuses on theoretical fundamentals and computational algorithms which a person with the degree could use to make further advances within the field (though they might need to pursue further mastery over the subject such as earning a masters or Phd before pursuring research oppurtunities), but some gradutes might instead look to immediately jump start their careers within software engineering so their job search starts right after graduation.</description>
+      <description>The Confusion Before The Experience Some of the material studied to earn a computer science degree focuses on theoretical fundamentals and computational algorithms which a person with the degree could use to make further advances within the field (though they might need to pursue further mastery over the subject such as earning a masters or Ph.D. before pursuing research oppurtunities), but some graduates might instead look to immediately jumpstart their careers within software engineering so their job search starts right after graduation.</description>
     </item>
     
     <item>
@@ -23,8 +33,8 @@
       
       <guid>http://example.org/post/trying-out-various-stacks/</guid>
       <description>So, having a bunch of different tools under our belt couldn&amp;rsquo;t hurt a bit, in fact it may help overcome a lot of bottleneck issues that come up in the middle of developing a software application.
-MERN Stands for Mongoose, Express, React and Node. A full-stack architecture I used for my first web-application which was a bug tracker application I built based off of this youtube video https://www.youtube.com/watch?v=oC483DTjRXU&amp;amp;t=860s&amp;amp;ab_channel=CoderFoundry
-Mern to come :) </description>
+MERN (MongoDB, Express, React and Node.js) A full-stack architecture I used for my first web application which was a bug tracker application I built based off of this youtube video https://www.youtube.com/watch?v=oC483DTjRXU&amp;amp;t=860s&amp;amp;ab_channel=CoderFoundry
+Using a MongoDb cluster with the Node.</description>
     </item>
     
     <item>
